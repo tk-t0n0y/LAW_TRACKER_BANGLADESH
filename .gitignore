@@ -1,0 +1,13 @@
+# Ignore all files and directories by default
+*
+
+# Allow the .gitignore file itself
+!/.gitignore
+
+# Allow the .github directory and all its contents
+!/.github/
+!/.github/**
+
+# Allow the bdlaws_tracker directory and all its contents
+!/bdlaws_tracker/
+!/bdlaws_tracker/**
