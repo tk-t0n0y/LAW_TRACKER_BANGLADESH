@@ -104,7 +104,8 @@ def get_law_hash(url):
             time.sleep(backoff)
             backoff *= 2
             
-    print(f"❌ Failed to fetch valid content for {url} after {retries} attempts.")
+    # Replaced unicode cross emoji with ASCII [ERROR] to prevent Windows console encoding crashes
+    print(f"[ERROR] Failed to fetch valid content for {url} after {retries} attempts.")
     return None
 
 def should_check_daily(law_id, title):
@@ -149,14 +150,10 @@ def track_and_update():
             db_changed = True
 
     # Build the list of laws to check on this run
-    # 1. New laws (always need hashing)
-    # 2. Critical & recent laws (checked daily)
-    # 3. A random subset of 50 older/non-critical laws to gradually audit the entire database
     daily_check_ids = []
     other_ids = []
     
     for law_id, law in local_db.items():
-        # If it doesn't have a hash, it must be checked
         if not law.get("hash"):
             daily_check_ids.append(law_id)
         elif should_check_daily(law_id, law["title"]):
@@ -192,8 +189,8 @@ def track_and_update():
                 local_db[law_id]["hash"] = page_hash
                 db_changed = True
             elif old_hash != page_hash:
-                # Content changed! (Even a single word)
-                print(f"⚠️ Change detected in law ID {law_id}: {local_db[law_id]['title']}")
+                # Replaced unicode warning emoji with ASCII [CHANGED] to prevent Windows console encoding crashes
+                print(f"[CHANGED] Change detected in law ID {law_id}: {local_db[law_id]['title']}")
                 local_db[law_id]["hash"] = page_hash
                 local_db[law_id]["last_changed"] = datetime.datetime.now().strftime("%Y-%m-%d")
                 modified_laws.append(local_db[law_id])
