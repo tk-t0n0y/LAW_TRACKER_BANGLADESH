@@ -8,9 +8,10 @@
 !/.github/
 !/.github/**
 
-# Allow the bdlaws_tracker directory and all its contents
-!/bdlaws_tracker/
-!/bdlaws_tracker/**
+# Allow the script, database, and README in the root
+!/track_bdlaws.py
+!/laws_database.json
+!/README.md
 
 # Explicitly ignore python cache and compiled files inside allowed directories
 **/__pycache__/

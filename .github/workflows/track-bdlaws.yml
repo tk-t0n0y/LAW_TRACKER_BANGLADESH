@@ -27,7 +27,7 @@ jobs:
           pip install requests beautifulsoup4 lxml
 
       - name: Run Scraper
-        run: python bdlaws_tracker/track_bdlaws.py
+        run: python track_bdlaws.py
 
       - name: Check for changes
         id: git_status
@@ -43,6 +43,6 @@ jobs:
         run: |
           git config --global user.name "BDLaws Update Bot"
           git config --global user.email "bot@github.com"
-          git add bdlaws_tracker/laws_database.json bdlaws_tracker/README.md
+          git add laws_database.json README.md
           git commit -m "Update: New Bangladeshi laws added to database and README"
           git push
