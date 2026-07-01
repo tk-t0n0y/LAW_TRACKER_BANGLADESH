@@ -11,3 +11,10 @@
 # Allow the bdlaws_tracker directory and all its contents
 !/bdlaws_tracker/
 !/bdlaws_tracker/**
+
+# Explicitly ignore python cache and compiled files inside allowed directories
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+**/*.pyd
+**/.pytest_cache/
