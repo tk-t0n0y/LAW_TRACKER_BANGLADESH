@@ -11610,5 +11610,45 @@
     "url": "http://bdlaws.minlaw.gov.bd/act-1724.html",
     "first_tracked": "2026-07-01",
     "hash": "31e5a7b2445bf8515df36e9cebfdd3bd"
+  },
+  "1711": {
+    "id": "1711",
+    "title": "২০২৬",
+    "url": "http://bdlaws.minlaw.gov.bd/act-1711.html",
+    "hash": "0f4446cc97a34e006afdf4d3893d4416",
+    "first_tracked": "2026-07-05",
+    "last_changed": "2026-07-05"
+  },
+  "1712": {
+    "id": "1712",
+    "title": "২০২৬",
+    "url": "http://bdlaws.minlaw.gov.bd/act-1712.html",
+    "hash": "973010cfee354b079f71a1d595771069",
+    "first_tracked": "2026-07-05",
+    "last_changed": "2026-07-05"
+  },
+  "1714": {
+    "id": "1714",
+    "title": "২০২৬",
+    "url": "http://bdlaws.minlaw.gov.bd/act-1714.html",
+    "hash": "92317b5eb1c35105b2106ce3192e95d8",
+    "first_tracked": "2026-07-05",
+    "last_changed": "2026-07-05"
+  },
+  "1720": {
+    "id": "1720",
+    "title": "২০২৬",
+    "url": "http://bdlaws.minlaw.gov.bd/act-1720.html",
+    "hash": "097c1de5d47df70154599e49f4e32f78",
+    "first_tracked": "2026-07-05",
+    "last_changed": "2026-07-05"
+  },
+  "1721": {
+    "id": "1721",
+    "title": "২০২৬",
+    "url": "http://bdlaws.minlaw.gov.bd/act-1721.html",
+    "hash": "13e0a85e4985bab295b8b14269d2421a",
+    "first_tracked": "2026-07-05",
+    "last_changed": "2026-07-05"
   }
 }
