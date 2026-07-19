@@ -130,7 +130,8 @@
     "title": "1860",
     "url": "http://bdlaws.minlaw.gov.bd/act-11.html",
     "first_tracked": "2026-07-01",
-    "hash": "10c0484456070e8a51088687367f3025"
+    "hash": "257725cb495e525999205ef4dd8f1ca5",
+    "last_changed": "2026-07-19"
   },
   "12": {
     "id": "12",
@@ -172,21 +173,24 @@
     "title": "1867",
     "url": "http://bdlaws.minlaw.gov.bd/act-17.html",
     "first_tracked": "2026-07-01",
-    "hash": "7dc3d5c7dc8647986df4c982bf5557bb"
+    "hash": "5fe2f54e9fb27f7fec325899f11a3a11",
+    "last_changed": "2026-07-19"
   },
   "18": {
     "id": "18",
     "title": "1867",
     "url": "http://bdlaws.minlaw.gov.bd/act-18.html",
     "first_tracked": "2026-07-01",
-    "hash": "77b392998c292d29b90d55f7ce7b2c05"
+    "hash": "881abf62ccc6c0b25f6519a5e3e437bd",
+    "last_changed": "2026-07-19"
   },
   "19": {
     "id": "19",
     "title": "1868",
     "url": "http://bdlaws.minlaw.gov.bd/act-19.html",
     "first_tracked": "2026-07-01",
-    "hash": "4b77ac3525071b180eea3a59b25f1a73"
+    "hash": "113e4f5d04b3ba7330edd3f063885079",
+    "last_changed": "2026-07-19"
   },
   "20": {
     "id": "20",
@@ -207,7 +211,8 @@
     "title": "1871",
     "url": "http://bdlaws.minlaw.gov.bd/act-22.html",
     "first_tracked": "2026-07-01",
-    "hash": "841cd3dcf32080819b75dc0423f4adca"
+    "hash": "efa488aa649aa0b5714a0333621bc0f1",
+    "last_changed": "2026-07-19"
   },
   "23": {
     "id": "23",
@@ -354,7 +359,8 @@
     "title": "1880",
     "url": "http://bdlaws.minlaw.gov.bd/act-43.html",
     "first_tracked": "2026-07-01",
-    "hash": "6b9787879b8e57c3702bc8137a742e54"
+    "hash": "f75843323e362bb2dabd854ec4f12fc7",
+    "last_changed": "2026-07-19"
   },
   "1324": {
     "id": "1324",
@@ -396,7 +402,8 @@
     "title": "1882",
     "url": "http://bdlaws.minlaw.gov.bd/act-48.html",
     "first_tracked": "2026-07-01",
-    "hash": "f0ec93e240ada3d3eeb512f1f8f9bfcc"
+    "hash": "921263e1b0487a5abbbe6614b8860f4f",
+    "last_changed": "2026-07-19"
   },
   "49": {
     "id": "49",
@@ -459,7 +466,8 @@
     "title": "1887",
     "url": "http://bdlaws.minlaw.gov.bd/act-57.html",
     "first_tracked": "2026-07-01",
-    "hash": "253a5e331989ac50f18ec27e46f0895b"
+    "hash": "396fbff81ce7ca6ca73ff3660d079e94",
+    "last_changed": "2026-07-19"
   },
   "58": {
     "id": "58",
@@ -585,7 +593,8 @@
     "title": "1898",
     "url": "http://bdlaws.minlaw.gov.bd/act-75.html",
     "first_tracked": "2026-07-01",
-    "hash": "5fac3e4f61744a36de92ecd70155d7db"
+    "hash": "016dadec24d518ba42c38f506b63bffd",
+    "last_changed": "2026-07-19"
   },
   "76": {
     "id": "76",
@@ -641,7 +650,8 @@
     "title": "1903",
     "url": "http://bdlaws.minlaw.gov.bd/act-82.html",
     "first_tracked": "2026-07-01",
-    "hash": "44d582c55bcc5d36dda79ae54f07def8"
+    "hash": "5d82de749cb9ef7b2025937beacdd2de",
+    "last_changed": "2026-07-19"
   },
   "83": {
     "id": "83",
@@ -745,7 +755,8 @@
     "title": "1913",
     "url": "http://bdlaws.minlaw.gov.bd/act-97.html",
     "first_tracked": "2026-07-01",
-    "hash": "e122d48e9cad54baf51313967d0113d9"
+    "hash": "2508fbaabecdcf3ac26074631f2a26c0",
+    "last_changed": "2026-07-19"
   },
   "98": {
     "id": "98",
@@ -899,7 +910,8 @@
     "title": "1920",
     "url": "http://bdlaws.minlaw.gov.bd/act-119.html",
     "first_tracked": "2026-07-01",
-    "hash": "b11aab5650f10740b783b69b2ecddde5"
+    "hash": "21f4570f72708ac07d58715f69730338",
+    "last_changed": "2026-07-19"
   },
   "120": {
     "id": "120",
@@ -1137,7 +1149,8 @@
     "title": "1930",
     "url": "http://bdlaws.minlaw.gov.bd/act-153.html",
     "first_tracked": "2026-07-01",
-    "hash": "63b632b8bbdf9b86bf615527eb22443d"
+    "hash": "4352a9ecb61f5413324caf97ac8f001c",
+    "last_changed": "2026-07-19"
   },
   "154": {
     "id": "154",
@@ -1249,7 +1262,8 @@
     "title": "1936",
     "url": "http://bdlaws.minlaw.gov.bd/act-169.html",
     "first_tracked": "2026-07-01",
-    "hash": "05183bc5cd1650c5615f78c47efd1c49"
+    "hash": "fa2b650d460b00e54614cdb4432b7981",
+    "last_changed": "2026-07-19"
   },
   "1442": {
     "id": "1442",
@@ -1291,7 +1305,8 @@
     "title": "1938",
     "url": "http://bdlaws.minlaw.gov.bd/act-174.html",
     "first_tracked": "2026-07-01",
-    "hash": "b7bb62001024bf265b701d0803b94856"
+    "hash": "6fb52300e2956a3aba67b4b8791d066b",
+    "last_changed": "2026-07-19"
   },
   "175": {
     "id": "175",
@@ -1403,7 +1418,8 @@
     "title": "1940",
     "url": "http://bdlaws.minlaw.gov.bd/act-189.html",
     "first_tracked": "2026-07-01",
-    "hash": "0d51eccec346c2ff362d64e02d2cea7b"
+    "hash": "5c84600c5945e2dfe76da996cce87455",
+    "last_changed": "2026-07-19"
   },
   "190": {
     "id": "190",
@@ -1641,7 +1657,8 @@
     "title": "1946",
     "url": "http://bdlaws.minlaw.gov.bd/act-1338.html",
     "first_tracked": "2026-07-01",
-    "hash": "87f3dd77617ce594ff7f33011b0f178c"
+    "hash": "4cc9fdf16f0568a66bd43c16638fc34f",
+    "last_changed": "2026-07-19"
   },
   "213": {
     "id": "213",
@@ -2250,7 +2267,8 @@
     "title": "1959",
     "url": "http://bdlaws.minlaw.gov.bd/act-1365.html",
     "first_tracked": "2026-07-01",
-    "hash": "edc1c3b3c53cdfc89c7f970506628854"
+    "hash": "9adb1923863803b9f99d03bc4208745c",
+    "last_changed": "2026-07-19"
   },
   "284": {
     "id": "284",
@@ -2404,7 +2422,8 @@
     "title": "1961",
     "url": "http://bdlaws.minlaw.gov.bd/act-305.html",
     "first_tracked": "2026-07-01",
-    "hash": "50519c7dbae174eefbf5b30053d8d459"
+    "hash": "2506946c0c4514b2f7d0f17d483381a6",
+    "last_changed": "2026-07-19"
   },
   "306": {
     "id": "306",
@@ -2838,7 +2857,8 @@
     "title": "1972",
     "url": "http://bdlaws.minlaw.gov.bd/act-367.html",
     "first_tracked": "2026-07-01",
-    "hash": "fe0d5f39e809f8c198da5fafb1288711"
+    "hash": "e71a648580b724f045bf2d0f413fe649",
+    "last_changed": "2026-07-19"
   },
   "403": {
     "id": "403",
@@ -3041,7 +3061,8 @@
     "title": "1972",
     "url": "http://bdlaws.minlaw.gov.bd/act-1310.html",
     "first_tracked": "2026-07-01",
-    "hash": "da74bf33f481bfd70f38cf66de4d39ac"
+    "hash": "24c826624044613f5f3883591defce24",
+    "last_changed": "2026-07-19"
   },
   "371": {
     "id": "371",
@@ -3132,7 +3153,8 @@
     "title": "1972",
     "url": "http://bdlaws.minlaw.gov.bd/act-383.html",
     "first_tracked": "2026-07-01",
-    "hash": "39eaa32cd22008c19870242d094bf640"
+    "hash": "49e8de6ba3e8bb4b980c12a308378213",
+    "last_changed": "2026-07-19"
   },
   "384": {
     "id": "384",
@@ -3286,7 +3308,8 @@
     "title": "1973",
     "url": "http://bdlaws.minlaw.gov.bd/act-428.html",
     "first_tracked": "2026-07-01",
-    "hash": "8bbae51cd54a5327975f2acba12df83e"
+    "hash": "5eb730c654e2d8fa73b69e895da79c9b",
+    "last_changed": "2026-07-19"
   },
   "429": {
     "id": "429",
@@ -3468,7 +3491,8 @@
     "title": "1973",
     "url": "http://bdlaws.minlaw.gov.bd/act-454.html",
     "first_tracked": "2026-07-01",
-    "hash": "e52858016e062690b6c1152031386be9"
+    "hash": "5f68e6af56dc40adf486223d9f0203b2",
+    "last_changed": "2026-07-19"
   },
   "455": {
     "id": "455",
@@ -3622,7 +3646,8 @@
     "title": "1974",
     "url": "http://bdlaws.minlaw.gov.bd/act-476.html",
     "first_tracked": "2026-07-01",
-    "hash": "dc19f96dc0fcaab44e62610c56964119"
+    "hash": "9b35224a11218cd3b444898a724601e7",
+    "last_changed": "2026-07-19"
   },
   "477": {
     "id": "477",
@@ -3895,7 +3920,8 @@
     "title": "1976",
     "url": "http://bdlaws.minlaw.gov.bd/act-532.html",
     "first_tracked": "2026-07-01",
-    "hash": "ec605ca1e1647256c1beda8f50460ee8"
+    "hash": "7f6453de4c376fdb0090cca008d10c2e",
+    "last_changed": "2026-07-19"
   },
   "533": {
     "id": "533",
@@ -4105,7 +4131,8 @@
     "title": "1977",
     "url": "http://bdlaws.minlaw.gov.bd/act-546.html",
     "first_tracked": "2026-07-01",
-    "hash": "562b29b46498133aa9427c6cb64c94ab"
+    "hash": "2f3b48e90b6d1e94cdc3a3a917222562",
+    "last_changed": "2026-07-19"
   },
   "547": {
     "id": "547",
@@ -4168,7 +4195,8 @@
     "title": "1977",
     "url": "http://bdlaws.minlaw.gov.bd/act-555.html",
     "first_tracked": "2026-07-01",
-    "hash": "24e7226341cac509db024c52fc4611e6"
+    "hash": "86cd7819ded6b8d8af4765cfaa8eced0",
+    "last_changed": "2026-07-19"
   },
   "556": {
     "id": "556",
@@ -4364,7 +4392,8 @@
     "title": "1979",
     "url": "http://bdlaws.minlaw.gov.bd/act-583.html",
     "first_tracked": "2026-07-01",
-    "hash": "15f96f84c50bf27ed8dada44e5f30dd4"
+    "hash": "7b2b62eb7a3ce8fba744d9bc26c8bd6c",
+    "last_changed": "2026-07-19"
   },
   "584": {
     "id": "584",
@@ -4861,7 +4890,8 @@
     "title": "1983",
     "url": "http://bdlaws.minlaw.gov.bd/act-654.html",
     "first_tracked": "2026-07-01",
-    "hash": "39673d58e44cda75fe371aff56abe53e"
+    "hash": "e62109b45d26cb14ca9fa206db0d0328",
+    "last_changed": "2026-07-19"
   },
   "655": {
     "id": "655",
@@ -5057,7 +5087,8 @@
     "title": "1985",
     "url": "http://bdlaws.minlaw.gov.bd/act-682.html",
     "first_tracked": "2026-07-01",
-    "hash": "6dd8abe4be5dc169bbf73e5a24d6d4c3"
+    "hash": "31c4b8ef775d356d1a919e12cecef284",
+    "last_changed": "2026-07-19"
   },
   "683": {
     "id": "683",
@@ -5183,7 +5214,8 @@
     "title": "1986",
     "url": "http://bdlaws.minlaw.gov.bd/act-700.html",
     "first_tracked": "2026-07-01",
-    "hash": "5d701dd164b73a3a76eef7dc17caa98b"
+    "hash": "58be6115130d9b2d8db5223731e2dc4b",
+    "last_changed": "2026-07-19"
   },
   "701": {
     "id": "701",
@@ -5309,7 +5341,8 @@
     "title": "১৯৮৯",
     "url": "http://bdlaws.minlaw.gov.bd/act-718.html",
     "first_tracked": "2026-07-01",
-    "hash": "3cd92e01cf957e9ddb4d020809d03971"
+    "hash": "3709be572fb14475b23c97fd4bd590b4",
+    "last_changed": "2026-07-19"
   },
   "719": {
     "id": "719",
@@ -5498,7 +5531,8 @@
     "title": "১৯৯০",
     "url": "http://bdlaws.minlaw.gov.bd/act-745.html",
     "first_tracked": "2026-07-01",
-    "hash": "0e110353116268b9d7a2c64e03e96249"
+    "hash": "73b29debb44728d8fecd09594448c12a",
+    "last_changed": "2026-07-19"
   },
   "746": {
     "id": "746",
@@ -5512,7 +5546,8 @@
     "title": "১৯৯০",
     "url": "http://bdlaws.minlaw.gov.bd/act-747.html",
     "first_tracked": "2026-07-01",
-    "hash": "ad297ecb7a1962149fb5373b4f79b65e"
+    "hash": "a71c203a3b08777d55e57922fca49147",
+    "last_changed": "2026-07-19"
   },
   "748": {
     "id": "748",
@@ -6023,7 +6058,8 @@
     "title": "১৯৯৮",
     "url": "http://bdlaws.minlaw.gov.bd/act-820.html",
     "first_tracked": "2026-07-01",
-    "hash": "a8075dd10b28759884e576e9ac16283e"
+    "hash": "dca995ac7505a0103fb565214382a542",
+    "last_changed": "2026-07-19"
   },
   "821": {
     "id": "821",
@@ -6240,7 +6276,8 @@
     "title": "২০০১",
     "url": "http://bdlaws.minlaw.gov.bd/act-851.html",
     "first_tracked": "2026-07-01",
-    "hash": "6ef2b43a8a933c7cd36f792a4de2bb92"
+    "hash": "e9fdd19490c46f09d0dddb052bf61fe7",
+    "last_changed": "2026-07-19"
   },
   "852": {
     "id": "852",
@@ -6331,7 +6368,8 @@
     "title": "২০০১",
     "url": "http://bdlaws.minlaw.gov.bd/act-864.html",
     "first_tracked": "2026-07-01",
-    "hash": "432fadf79cc6be575c1952cfb1014650"
+    "hash": "5c48877a7b8a21e2f87ec6e056e76792",
+    "last_changed": "2026-07-19"
   },
   "865": {
     "id": "865",
@@ -7094,7 +7132,8 @@
     "title": "২০০৯",
     "url": "http://bdlaws.minlaw.gov.bd/act-1015.html",
     "first_tracked": "2026-07-01",
-    "hash": "396fe3468478b8a64a0f0ade7a28232b"
+    "hash": "a80779159e55635b4242d16fb016167d",
+    "last_changed": "2026-07-19"
   },
   "1016": {
     "id": "1016",
@@ -7150,7 +7189,8 @@
     "title": "২০০৯",
     "url": "http://bdlaws.minlaw.gov.bd/act-1023.html",
     "first_tracked": "2026-07-01",
-    "hash": "ec4fc3d2ddaff2774a2eaa51d44362b0"
+    "hash": "4bc655b595e6af857a1133e2ea7a6d0f",
+    "last_changed": "2026-07-19"
   },
   "1024": {
     "id": "1024",
@@ -7479,7 +7519,8 @@
     "title": "২০১১",
     "url": "http://bdlaws.minlaw.gov.bd/act-1079.html",
     "first_tracked": "2026-07-01",
-    "hash": "7f8da61332d27f0798291c940eb9331a"
+    "hash": "fefe24c1c880848d8b81f81561f2c8f0",
+    "last_changed": "2026-07-19"
   },
   "1080": {
     "id": "1080",
@@ -7801,7 +7842,8 @@
     "title": "২০১৩",
     "url": "http://bdlaws.minlaw.gov.bd/act-1128.html",
     "first_tracked": "2026-07-01",
-    "hash": "276e420b11ae8ce735ef1cb18ad68410"
+    "hash": "ca3c783a2b0fa5cc81f1ee134b42fb24",
+    "last_changed": "2026-07-19"
   },
   "1129": {
     "id": "1129",
@@ -7920,14 +7962,16 @@
     "title": "২০১৪",
     "url": "http://bdlaws.minlaw.gov.bd/act-1145.html",
     "first_tracked": "2026-07-01",
-    "hash": "88179caf862d6171a2ca684d6fc515f2"
+    "hash": "31f6f65bf93623d906929a9bcbe41565",
+    "last_changed": "2026-07-19"
   },
   "1146": {
     "id": "1146",
     "title": "২০১৪",
     "url": "http://bdlaws.minlaw.gov.bd/act-1146.html",
     "first_tracked": "2026-07-01",
-    "hash": "50f4a24cf241ca5136f89f583a396002"
+    "hash": "e35776191cf3a352a1485d0d22cc5e68",
+    "last_changed": "2026-07-19"
   },
   "1147": {
     "id": "1147",
@@ -8067,7 +8111,8 @@
     "title": "২০১৫",
     "url": "http://bdlaws.minlaw.gov.bd/act-1167.html",
     "first_tracked": "2026-07-01",
-    "hash": "4f936e0da91f774e168e10df2981ccbd"
+    "hash": "6a8d3ef283ef53bd6985ffeebbc55fcb",
+    "last_changed": "2026-07-19"
   },
   "1168": {
     "id": "1168",
@@ -8396,7 +8441,8 @@
     "title": "২০১৭",
     "url": "http://bdlaws.minlaw.gov.bd/act-1213.html",
     "first_tracked": "2026-07-01",
-    "hash": "f14ec1e5f05ab8ab9f80ec1c6917c498"
+    "hash": "2596c07d45f662ab33fecd720528b849",
+    "last_changed": "2026-07-19"
   },
   "1214": {
     "id": "1214",
@@ -8515,7 +8561,8 @@
     "title": "২০১৮",
     "url": "http://bdlaws.minlaw.gov.bd/act-1230.html",
     "first_tracked": "2026-07-01",
-    "hash": "048c4a6f269162fd75665df7977e0f21"
+    "hash": "7e17aa159e29b2e5b60c24889909ce5f",
+    "last_changed": "2026-07-19"
   },
   "1231": {
     "id": "1231",
@@ -8578,7 +8625,8 @@
     "title": "২০১৮",
     "url": "http://bdlaws.minlaw.gov.bd/act-1239.html",
     "first_tracked": "2026-07-01",
-    "hash": "4c7f637dfef0a0091a210b66880ecb8c"
+    "hash": "ab98ba1b0990ea4ee72358c49d16016a",
+    "last_changed": "2026-07-19"
   },
   "1240": {
     "id": "1240",
@@ -8935,7 +8983,8 @@
     "title": "২০১৯",
     "url": "http://bdlaws.minlaw.gov.bd/act-1290.html",
     "first_tracked": "2026-07-01",
-    "hash": "59320251a576a60447387929cb3b7362"
+    "hash": "478e73ab54656ef898926b9bfc670a01",
+    "last_changed": "2026-07-19"
   },
   "1291": {
     "id": "1291",
@@ -9152,7 +9201,8 @@
     "title": "২০২০",
     "url": "http://bdlaws.minlaw.gov.bd/act-1354.html",
     "first_tracked": "2026-07-01",
-    "hash": "1f0b6d86734944caa857277e76e98b9e"
+    "hash": "b371e6eb1d15f8b136954566eafd472e",
+    "last_changed": "2026-07-19"
   },
   "1355": {
     "id": "1355",
@@ -9446,7 +9496,8 @@
     "title": "২০২২",
     "url": "http://bdlaws.minlaw.gov.bd/act-1405.html",
     "first_tracked": "2026-07-01",
-    "hash": "d57a9640f09b1b8a9781acc95a3f7cde"
+    "hash": "56cbc8693444e67b13aabcdcadeee6f2",
+    "last_changed": "2026-07-19"
   },
   "1406": {
     "id": "1406",
@@ -9509,7 +9560,8 @@
     "title": "২০২২",
     "url": "http://bdlaws.minlaw.gov.bd/act-1414.html",
     "first_tracked": "2026-07-01",
-    "hash": "d214a4e16734a509d85e3f1e54768651"
+    "hash": "c119c5c0d8d18849bd82dcc096f6de33",
+    "last_changed": "2026-07-19"
   },
   "1415": {
     "id": "1415",
@@ -9754,7 +9806,8 @@
     "title": "২০২৩",
     "url": "http://bdlaws.minlaw.gov.bd/act-1450.html",
     "first_tracked": "2026-07-01",
-    "hash": "7ddb393f303db63f0459009c8f748d9c"
+    "hash": "b5de3d4ee4da480f1154904ffd3def00",
+    "last_changed": "2026-07-19"
   },
   "1451": {
     "id": "1451",
@@ -9789,7 +9842,8 @@
     "title": "২০২৩",
     "url": "http://bdlaws.minlaw.gov.bd/act-1455.html",
     "first_tracked": "2026-07-01",
-    "hash": "df92e47229f6c98cd243a4bf58f1c65c"
+    "hash": "7c355e8a139f59a5c8b3c0e0a4d3bd88",
+    "last_changed": "2026-07-19"
   },
   "1456": {
     "id": "1456",
@@ -9922,7 +9976,8 @@
     "title": "২০২৩",
     "url": "http://bdlaws.minlaw.gov.bd/act-1475.html",
     "first_tracked": "2026-07-01",
-    "hash": "a65f6c562754a469cbef3cae357769e8"
+    "hash": "1ab207a21cf3ebeac593dbda343b9e97",
+    "last_changed": "2026-07-19"
   },
   "1476": {
     "id": "1476",
@@ -10426,7 +10481,8 @@
     "title": "২০২৫",
     "url": "http://bdlaws.minlaw.gov.bd/act-1548.html",
     "first_tracked": "2026-07-01",
-    "hash": "018ce7aec8e140db57de585bb8fa4a99"
+    "hash": "3df3c0a93953bfab880e051e5cba9d39",
+    "last_changed": "2026-07-19"
   },
   "1549": {
     "id": "1549",
@@ -10734,7 +10790,8 @@
     "title": "২০২৫",
     "url": "http://bdlaws.minlaw.gov.bd/act-1592.html",
     "first_tracked": "2026-07-01",
-    "hash": "4ea536575c9225aba8b60ba739da6c4d"
+    "hash": "47b33e41bfe3cec33d18eb10d849d4cf",
+    "last_changed": "2026-07-19"
   },
   "1593": {
     "id": "1593",
@@ -10804,7 +10861,8 @@
     "title": "২০২৬",
     "url": "http://bdlaws.minlaw.gov.bd/act-1602.html",
     "first_tracked": "2026-07-01",
-    "hash": "cd677be805a5e608911dd20d2d1b5567"
+    "hash": "f2b6a662d7e1566c60dbfb6e75983a40",
+    "last_changed": "2026-07-19"
   },
   "1603": {
     "id": "1603",
@@ -10902,7 +10960,8 @@
     "title": "২০২৬",
     "url": "http://bdlaws.minlaw.gov.bd/act-1616.html",
     "first_tracked": "2026-07-01",
-    "hash": "dc836099d0769670f12fef2f5299664f"
+    "hash": "2a00867ded62c80a21fb317756c03f38",
+    "last_changed": "2026-07-19"
   },
   "1617": {
     "id": "1617",
@@ -11182,7 +11241,8 @@
     "title": "২০২৬",
     "url": "http://bdlaws.minlaw.gov.bd/act-1656.html",
     "first_tracked": "2026-07-01",
-    "hash": "c68f8875b7a7de2a7703fd5675742544"
+    "hash": "cde94343f9c17e2e91dc1dcb377f4d42",
+    "last_changed": "2026-07-19"
   },
   "1657": {
     "id": "1657",
@@ -11666,5 +11726,37 @@
     "hash": "ef94e1c709ec06632a89c8cd9a8ee938",
     "first_tracked": "2026-07-12",
     "last_changed": "2026-07-12"
+  },
+  "1691": {
+    "id": "1691",
+    "title": "২০২৬",
+    "url": "http://bdlaws.minlaw.gov.bd/act-1691.html",
+    "hash": "7a6ec631d845466459aacd85d75f242f",
+    "first_tracked": "2026-07-19",
+    "last_changed": "2026-07-19"
+  },
+  "1725": {
+    "id": "1725",
+    "title": "২০২৬",
+    "url": "http://bdlaws.minlaw.gov.bd/act-1725.html",
+    "hash": "2164b24af1373036973bdb3512df5b63",
+    "first_tracked": "2026-07-19",
+    "last_changed": "2026-07-19"
+  },
+  "1727": {
+    "id": "1727",
+    "title": "২০২৬",
+    "url": "http://bdlaws.minlaw.gov.bd/act-1727.html",
+    "hash": "52fd407ae78ff7297bf7b1f28148de1c",
+    "first_tracked": "2026-07-19",
+    "last_changed": "2026-07-19"
+  },
+  "1728": {
+    "id": "1728",
+    "title": "২০২৬",
+    "url": "http://bdlaws.minlaw.gov.bd/act-1728.html",
+    "hash": "26cedeb8ce54d6cda768874573a64db0",
+    "first_tracked": "2026-07-19",
+    "last_changed": "2026-07-19"
   }
 }
