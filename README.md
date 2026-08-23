@@ -3,22 +3,23 @@
 <!-- LATEST_LAWS_START -->
 > [!IMPORTANT]
 > **🇧🇩 Laws of Bangladesh Tracker Status**
-> * **Last Checked:** `2026-08-16 00:49:35 UTC`
+> * **Last Checked:** `2026-08-23 00:51:25 UTC`
 > * **Status:** 🔔 **New updates tracked!** (Audited 61 laws on this run)
 > 
 > ### ⚠️ Modified / Amended Provisions:
-> * **[২০২৬](http://bdlaws.minlaw.gov.bd/act-1724.html)** (ID: 1724) — *Word change detected*
-> * **[২০২৬](http://bdlaws.minlaw.gov.bd/act-1682.html)** (ID: 1682) — *Word change detected*
-> * **[২০২৬](http://bdlaws.minlaw.gov.bd/act-1672.html)** (ID: 1672) — *Word change detected*
-> * **[২০২৬](http://bdlaws.minlaw.gov.bd/act-1666.html)** (ID: 1666) — *Word change detected*
-> * **[২০২৫](http://bdlaws.minlaw.gov.bd/act-1523.html)** (ID: 1523) — *Word change detected*
-> * **[২০২৫](http://bdlaws.minlaw.gov.bd/act-1522.html)** (ID: 1522) — *Word change detected*
-> * **[২০২৩](http://bdlaws.minlaw.gov.bd/act-1429.html)** (ID: 1429) — *Word change detected*
-> * **[২০২৩](http://bdlaws.minlaw.gov.bd/act-1423.html)** (ID: 1423) — *Word change detected*
-> * **[1957](http://bdlaws.minlaw.gov.bd/act-1361.html)** (ID: 1361) — *Word change detected*
-> * **[1954](http://bdlaws.minlaw.gov.bd/act-1357.html)** (ID: 1357) — *Word change detected*
+> * **[২০২৬](http://bdlaws.minlaw.gov.bd/act-1710.html)** (ID: 1710) — *Word change detected*
+> * **[২০২৬](http://bdlaws.minlaw.gov.bd/act-1675.html)** (ID: 1675) — *Word change detected*
+> * **[২০২৬](http://bdlaws.minlaw.gov.bd/act-1646.html)** (ID: 1646) — *Word change detected*
+> * **[২০২৬](http://bdlaws.minlaw.gov.bd/act-1629.html)** (ID: 1629) — *Word change detected*
+> * **[২০২৫](http://bdlaws.minlaw.gov.bd/act-1578.html)** (ID: 1578) — *Word change detected*
+> * **[২০২৩](http://bdlaws.minlaw.gov.bd/act-1482.html)** (ID: 1482) — *Word change detected*
+> * **[২০২৩](http://bdlaws.minlaw.gov.bd/act-1467.html)** (ID: 1467) — *Word change detected*
+> * **[২০২৩](http://bdlaws.minlaw.gov.bd/act-1437.html)** (ID: 1437) — *Word change detected*
+> * **[২০২০](http://bdlaws.minlaw.gov.bd/act-1354.html)** (ID: 1354) — *Word change detected*
+> * **[২০২০](http://bdlaws.minlaw.gov.bd/act-1304.html)** (ID: 1304) — *Word change detected*
 > * ... and **38** other law changes.
 <!-- LATEST_LAWS_END -->
+
 
 
 
