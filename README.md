@@ -3,22 +3,23 @@
 <!-- LATEST_LAWS_START -->
 > [!IMPORTANT]
 > **🇧🇩 Laws of Bangladesh Tracker Status**
-> * **Last Checked:** `2026-08-30 02:44:26 UTC`
+> * **Last Checked:** `2026-09-06 02:09:50 UTC`
 > * **Status:** 🔔 **New updates tracked!** (Audited 61 laws on this run)
 > 
 > ### ⚠️ Modified / Amended Provisions:
-> * **[২০২৬](http://bdlaws.minlaw.gov.bd/act-1687.html)** (ID: 1687) — *Word change detected*
-> * **[২০২৬](http://bdlaws.minlaw.gov.bd/act-1669.html)** (ID: 1669) — *Word change detected*
-> * **[২০২৬](http://bdlaws.minlaw.gov.bd/act-1664.html)** (ID: 1664) — *Word change detected*
-> * **[২০২৬](http://bdlaws.minlaw.gov.bd/act-1648.html)** (ID: 1648) — *Word change detected*
-> * **[২০২৬](http://bdlaws.minlaw.gov.bd/act-1647.html)** (ID: 1647) — *Word change detected*
-> * **[২০২৬](http://bdlaws.minlaw.gov.bd/act-1643.html)** (ID: 1643) — *Word change detected*
-> * **[২০২৬](http://bdlaws.minlaw.gov.bd/act-1624.html)** (ID: 1624) — *Word change detected*
-> * **[২০২৫](http://bdlaws.minlaw.gov.bd/act-1566.html)** (ID: 1566) — *Word change detected*
-> * **[২০২৫](http://bdlaws.minlaw.gov.bd/act-1553.html)** (ID: 1553) — *Word change detected*
-> * **[২০২৫](http://bdlaws.minlaw.gov.bd/act-1545.html)** (ID: 1545) — *Word change detected*
-> * ... and **36** other law changes.
+> * **[২০২৬](http://bdlaws.minlaw.gov.bd/act-1721.html)** (ID: 1721) — *Word change detected*
+> * **[২০২৬](http://bdlaws.minlaw.gov.bd/act-1691.html)** (ID: 1691) — *Word change detected*
+> * **[২০২৬](http://bdlaws.minlaw.gov.bd/act-1604.html)** (ID: 1604) — *Word change detected*
+> * **[২০২৬](http://bdlaws.minlaw.gov.bd/act-1597.html)** (ID: 1597) — *Word change detected*
+> * **[২০২৬](http://bdlaws.minlaw.gov.bd/act-1595.html)** (ID: 1595) — *Word change detected*
+> * **[২০২৫](http://bdlaws.minlaw.gov.bd/act-1589.html)** (ID: 1589) — *Word change detected*
+> * **[২০২৫](http://bdlaws.minlaw.gov.bd/act-1585.html)** (ID: 1585) — *Word change detected*
+> * **[২০২৩](http://bdlaws.minlaw.gov.bd/act-1471.html)** (ID: 1471) — *Word change detected*
+> * **[২০২৩](http://bdlaws.minlaw.gov.bd/act-1433.html)** (ID: 1433) — *Word change detected*
+> * **[২০২৩](http://bdlaws.minlaw.gov.bd/act-1424.html)** (ID: 1424) — *Word change detected*
+> * ... and **35** other law changes.
 <!-- LATEST_LAWS_END -->
+
 
 
 
